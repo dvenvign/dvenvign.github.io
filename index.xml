@@ -20,5 +20,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://dvenvign.github.io/about/</link>
+      <pubDate>Wed, 26 Aug 2020 20:55:15 +0200</pubDate>
+      
+      <guid>https://dvenvign.github.io/about/</guid>
+      <description>Hi! I&amp;rsquo;m Dennis Verweij and I&amp;rsquo;m the lead platform engineer at Pon Digital Solutions. Pon Digital Solutions builds and runs websites, mobile apps, webshops, integrations and api&amp;rsquo;s. We have a best of breed philosophy on what, where and how to run things so a pretty broad skillset and an open mind is required to not go mad. We run on GCP, AWS, Azure and we use tech like kubernetes, istio, cloudflare, elasticsearch, mongodb, mysql, postgres, mulesoft&amp;hellip;.</description>
+    </item>
+    
   </channel>
 </rss>
